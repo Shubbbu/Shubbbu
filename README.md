@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Shubham Kumar(Shubbbu) 👋
 
-<!--
-**Shubbbu/Shubbbu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on coding skills.
+- 🌱 I’m currently learning flutter.
+- 👯 I’m looking to collaborate on interview preparation.
+- 🤔 I’m looking for help with interview preparation.
+- 💬 Ask me about Machine Learning,Python,Javascript and and other tech stuffs.
+- 📫 How to reach me: [Insta-@shubbu_pyaara](https://www.instagram.com/shubbu_pyaara/)
+- 😄 Pronouns: Shubbbu/SHO
+- ⚡ Fun fact: I spend 1-2 hours on bike riding🏍️ and I like to watch wrestling 🤜✊🤛👊.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+https://github-readme-stats.vercel.app/api?username=Shubbbu&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515
