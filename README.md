@@ -1,7 +1,7 @@
 ### Hi there, I'm Shubham Kumar(Shubbbu) 👋
 
 - 🔭 I’m currently working on coding skills.
-- 🌱 I’m currently learning flutter.
+- 🌱 I’m currently learning everything 🤣.
 - 👯 I’m looking to collaborate on interview preparation.
 - 🤔 I’m looking for help with interview preparation.
 - 💬 Ask me about Machine Learning,Python,Javascript and and other tech stuffs.
