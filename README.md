@@ -9,4 +9,4 @@
 - 😄 Pronouns: Shubbbu/SHO
 - ⚡ Fun fact: I spend 1-2 hours on bike riding🏍️ and I like to watch wrestling 🤜✊🤛👊.
 
-https://github-readme-stats.vercel.app/api?username=Shubbbu&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515
+<img src="https://github-readme-stats.vercel.app/api?username=Shubbbu&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
